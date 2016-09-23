@@ -1,12 +1,13 @@
-Perlin_Noise
+makeIsland
 ============
 
-Here you could find the code for "Perlin noise in C++11", for more informations visit the project webpage:
+A unifished C++ test about using Perlin Noise to generate Island.
+Will clean it and port it to SFML one day.
+
+Using Perlin Noise from :
 
 [http://solarianprogrammer.com/2012/07/18/perlin-noise-cpp-11/](http://solarianprogrammer.com/2012/07/18/perlin-noise-cpp-11/)
 
-You could use this program under the terms of GPL v3, for more details see:
+#Screenshot :
 
-http://www.gnu.org/copyleft/gpl.html
-
-Copyright 2012 Sol from www.solarianprogrammer.com
+![alt tag](http://i.imgur.com/Rp7pn2g.png)
